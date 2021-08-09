@@ -1,0 +1,20 @@
+{
+    "id": "6111919b4b42dfd919ef4e25",
+    "name": "trigger0",
+    "type": "DATABASE",
+    "config": {
+        "operation_types": [
+            "INSERT"
+        ],
+        "database": "database",
+        "collection": "collection",
+        "service_name": "mongodb",
+        "match": {},
+        "project": {},
+        "full_document": false,
+        "full_document_before_change": false,
+        "unordered": false
+    },
+    "function_name": "noop",
+    "disabled": false
+}
