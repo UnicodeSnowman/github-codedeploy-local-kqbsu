@@ -1,0 +1,7 @@
+{
+    "app_id": "github-codedeploy-local-kqbsu",
+    "config_version": 20210101,
+    "name": "github-codedeploy-local",
+    "location": "US-VA",
+    "deployment_model": "GLOBAL"
+}
