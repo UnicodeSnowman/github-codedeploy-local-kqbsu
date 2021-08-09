@@ -4,8 +4,7 @@
     "type": "DATABASE",
     "config": {
         "operation_types": [
-            "INSERT",
-            "UPDATE"
+            "INSERT"
         ],
         "database": "database",
         "collection": "collection",
